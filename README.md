@@ -43,7 +43,7 @@ Run DApp in browser:
 
 `npm start`
 
-## Author
+## Authors
 
  [Devendra Yadav](https://github.com/devilla) [Prince Rana](https://github.com/RanaPrince)
 
