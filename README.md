@@ -45,5 +45,5 @@ Run DApp in browser:
 
 ## Author
 
- [Dev Yadav](https://github.com/devilla)
+ [Devendra Yadav](https://github.com/devilla) [Prince Rana](https://github.com/RanaPrince)
 
